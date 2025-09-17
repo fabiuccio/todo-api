@@ -19,6 +19,8 @@
   "license": "ISC",
   "dependencies": {
     "express": "^5.1.0",
+    "swagger-jsdoc": "file:vendor/swagger-jsdoc",
+    "swagger-ui-express": "file:vendor/swagger-ui-express",
     "zod": "^4.1.9"
   },
   "devDependencies": {
